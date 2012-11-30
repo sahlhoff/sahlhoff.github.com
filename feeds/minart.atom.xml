@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sahlhoff</title><link href="http://sahlhoff.github.com/" rel="alternate"></link><link href="http://sahlhoff.github.com/feeds/minart.atom.xml" rel="self"></link><id>http://sahlhoff.github.com/</id><updated>2012-11-30T12:56:29-08:00</updated><entry><title>mnmlist</title><link href="http://sahlhoff.github.com/posts/mnmlist/" rel="alternate"></link><updated>2012-11-30T12:56:29-08:00</updated><author><name>Chad Sahlhoff</name></author><id>tag:sahlhoff.github.com,2012-11-30:posts/mnmlist/</id><summary type="html">&lt;p&gt;This is the &lt;a class="reference external" href="http://mnmlist.com/theme"&gt;mnmlist theme&lt;/a&gt; adapted for Pelican.&lt;/p&gt;
+&lt;div class="section" id="settings"&gt;
+&lt;h2&gt;Settings&lt;/h2&gt;
+&lt;p&gt;There's one additional setting used by this theme, if present:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+HIDE_DATE = False
+&lt;/pre&gt;
+&lt;p&gt;If &lt;tt class="docutils literal"&gt;HIDE_DATE&lt;/tt&gt; is set to &lt;tt class="docutils literal"&gt;True&lt;/tt&gt;, dates won't be displayed under the blog post titles.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="compass"&gt;
+&lt;h2&gt;Compass&lt;/h2&gt;
+&lt;p&gt;The &lt;tt class="docutils literal"&gt;main.css&lt;/tt&gt; file is generated from the &lt;tt class="docutils literal"&gt;compass/src/main.scss&lt;/tt&gt; sass file, using &lt;a class="reference external" href="http://compass-style.org/"&gt;http://compass-style.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry></feed>
