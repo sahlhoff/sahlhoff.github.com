@@ -52,3 +52,17 @@
 	left: 16px;
 	z-index: 2;
 }
+
+#nav {
+	position: absolute;
+	width: 100%;
+	background-color: #fff;
+	text-align: center;
+	height: 75px;
+	bottom: 0px;
+	left: 0px;
+	border-bottom: 1px dashed #ccc;
+	border-top: 1px dashed #ccc;
+}
+
+
