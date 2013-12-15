@@ -1,0 +1,47 @@
+
+
+#intro {
+	background: url('../img/bg.jpg') no-repeat center center fixed;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#intro-wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#intro-list {
+	margin-top: 40%;
+	height: 150px
+}
+
+
+#intro li {
+	float: left;
+	width: 100px;
+	height: 100px;
+	background-color: #fff;
+	text-align: center;
+	font-size: 100px;
+	font-family: corpulent-web,fantasy;
+	font-style: normal;
+	font-weight: 400;
+	color: #000;
+	position: relative;
+}
+
+#intro ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	width: 750px;
+	height: 100px;
+}
