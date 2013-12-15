@@ -65,4 +65,18 @@
 	border-top: 1px dashed #ccc;
 }
 
+#subnav {
+	font-family: proxima-nova,sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 16px;
+	margin-top: 10px;
+}
+
+#subnav a {
+	color: #666;
+	text-decoration: none;
+}
 
