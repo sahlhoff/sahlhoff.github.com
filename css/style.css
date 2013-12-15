@@ -30,7 +30,7 @@
 	height: 100px;
 	background-color: #fff;
 	text-align: center;
-	font-size: 80px;
+	font-size: 95px;
 	font-family: 'Chango', cursive;
 	font-style: normal;
 	font-weight: 400;
@@ -48,9 +48,8 @@
 
 .letters {
 	position: absolute;
-	top: 4px;
-	left: 16px;
-	z-index: 2;
+	top: -14px;
+	z-index: 10000;
 }
 
 #nav {
