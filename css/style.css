@@ -4,6 +4,8 @@ body {
 	font-weight: 400;
 	color: #515047;
 	background-color: #eee;
+	padding: 0px;
+	margin: 0 auto;
 }
 
 #intro {
@@ -108,7 +110,7 @@ body {
 	padding-bottom: 20px;
 }
 
-@media screen and (min-width: 980px)
+
 #about {
 	max-width: 1600px;
 	margin: 0 auto;
@@ -129,6 +131,11 @@ body {
 	padding: 0px !important;
 }
 
+#about-image {
+	border: 4px solid black;
+	width: 450px;
+}
+
 #about h2 {
 	border-bottom: 1px dashed #ccc;
 	margin-bottom: 20px;
@@ -139,6 +146,15 @@ body {
 	width: 220px;
 	padding-left: 20px;
 	float: left;
+}
+
+#about-list li:first-child {
+	width: 460px;
+}
+
+#about a {
+	background-color: #ff0066;
+	color: #fff;
 }
 
 header {
@@ -179,3 +195,21 @@ header {
 	color: #666 !important;
 	background-color: #ffff00 !important;
 }
+
+.inner-list {
+	list-style: circle;
+	float: none;
+	margin: 0px;
+	padding-left: 20px;
+}
+
+.inner-list li {
+	padding-left: 0px !important;
+	padding-bottom: 10px !important;
+	margin: 0px !important;
+}
+
+.article-list li {
+	width: 200px !important;
+}
+
