@@ -1,5 +1,5 @@
 body {
-	font-family: proxima-nova,sans-serif;
+	font-family: 'Voces', sans-serif;
 	font-style: normal;
 	font-weight: 400;
 	color: #515047;
@@ -123,6 +123,7 @@ body {
 	font-size: 42px;
 	font-weight: 200;
 	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 
 #about-list {
