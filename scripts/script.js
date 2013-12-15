@@ -1,6 +1,6 @@
 var intro = true;
 var isOpen = true;
-var baseTitle = "Bodge / Digital Creative";
+var baseTitle = "SAHLHOFF | Digital Creative";
 var isIphone = false;
 var isIpad = false;
 if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
@@ -14,16 +14,13 @@ if ((navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/iPod/i))
 $(document).ready(function() {
 
     function resizeMe() {
-        //("header").height($(window).height());
-        //$("header").css("top", -($(window).height()-$("#nav").height()));
-        //$("#work-container").css("height", ($(window).height() - $("#nav").height()));
-        //$("#about-wrapper").height($(window).height());
-        /*$("#loader").css ("marginTop", ($(window).height()*0.5-$("#loader").height()*0.5));
-$("#loader").css ("marginLeft", ($(window).width()*0.5-$("#loader").width()*0.5));
-*/
+        $("header").height($(window).height());
+
+        $("#about-wrapper").height($(window).height());
 
 
-        //$("#loader-img").width($(window).width());
+
+        $("#loader-img").width($(window).width());
 
 
 
